@@ -1,0 +1,15 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Formación académica, grados de esutdio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Tecnológico Nacional de México en Celaya",
+            "degree": "Ingenieria en Sistemas Computacionales"
+        },
+        {
+            "name": "Universidad Autonoma de Occidente",
+            "degree": "Ingenieria en Informatica"
+        }
+    ]
+}

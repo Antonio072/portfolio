@@ -1,0 +1,124 @@
+{
+    "data": {
+        "email": "arkantos72.lol@gmail.com",
+        "username": "Antonio072",
+        "certificates": [
+            {
+                "score": 10,
+                "code": "7969b548-340a-4c46-8613-ff5aa1413e98",
+                "title": "Curso profesional de PHP"
+            },
+            {
+                "score": 10,
+                "code": "32c5ffc8-6c98-4d8d-a865-04b1a445d17e",
+                "title": "Curso Profesional de JAVA"
+            },
+            {
+                "score": 10,
+                "code": "82395eca-7258-42fc-8fac-f4994beb32bb",
+                "title": "Curso Profesional de Base de Datos"
+            }
+        ],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Taller de Vue con Firebase",
+                "progress": "23.0",
+                "url": "http://codigofacilito.com/courses/vue-firebase"
+            },
+            {
+                "title": "Curso Gratuito de Bootstrap 4",
+                "progress": "11.0",
+                "url": "http://codigofacilito.com/courses/bootstrap"
+            },
+            {
+                "title": "Curso de Docker",
+                "progress": "70.0",
+                "url": "http://codigofacilito.com/courses/docker"
+            },
+            {
+                "title": "Curso profesional de PHP",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/php-profesional"
+            },
+            {
+                "title": "Curso Profesional de Vue",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/vue"
+            },
+            {
+                "title": "Curso Profesional de JAVA",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/java-profesional"
+            },
+            {
+                "title": "Curso Profesional de Base de Datos",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/base-datos-profesional"
+            },
+            {
+                "title": "Curso Profesional de Laravel",
+                "progress": "57.0",
+                "url": "http://codigofacilito.com/courses/laravel-profesional"
+            },
+            {
+                "title": "Desarrrolla una tienda en línea con Laravel y Vue",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/laravel-tienda-en-linea"
+            },
+            {
+                "title": "Pruebas unitarias con PHP",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/php-testing"
+            },
+            {
+                "title": "Taller para consultar datos de una API con Vue",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/rest-api-vue"
+            },
+            {
+                "title": "Curso Profesional de JavaScript",
+                "progress": "34.0",
+                "url": "http://codigofacilito.com/courses/javascript-profesional"
+            },
+            {
+                "title": "Curso de introducción a Gatsby",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/gatsby-introduccion"
+            },
+            {
+                "title": "Curso Profesional de Python",
+                "progress": "50.0",
+                "url": "http://codigofacilito.com/courses/python-profesional"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "53.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title": "Curso profesional de PHP",
+                "url": "http://codigofacilito.com/courses/php-profesional"
+            },
+            {
+                "title": "Curso Profesional de Vue",
+                "url": "http://codigofacilito.com/courses/vue"
+            },
+            {
+                "title": "Curso Profesional de JAVA",
+                "url": "http://codigofacilito.com/courses/java-profesional"
+            },
+            {
+                "title": "Curso Profesional de Base de Datos",
+                "url": "http://codigofacilito.com/courses/base-datos-profesional"
+            },
+            {
+                "title": "Taller para consultar datos de una API con Vue",
+                "url": "http://codigofacilito.com/courses/rest-api-vue"
+            }
+        ]
+    },
+    "errors": []
+}

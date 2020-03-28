@@ -1,0 +1,12 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas en linea",
+    "items": [
+        {
+            "name": "Curso de ....",
+            "url": "https://...",
+            "img": "img"
+        },
+    ]
+}
