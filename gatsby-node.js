@@ -1,8 +1,9 @@
-import { graphql } from "gatsby"
+
+const path = require('path')
 
 exports.createPages = async ({graphql, actions}) => {
     actions.createPage({
         path: 'dummy',
-        component: "template"
+        component: path.resolve('./src/components/template.js')
     })
 }
