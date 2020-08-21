@@ -5,7 +5,7 @@ import React, { Fragment } from "react"
 
 export default (props) => (
     <Fragment>
-        <h2 className="text-3xl font-bold text-center">Mis certificados en Codigo Facilito</h2>
+        <h2 className="text-3xl font-bold text-center">Mis certificados de Codigo Facilito</h2>
 
         <div className="flex">
             {props.data.map(certificate => (

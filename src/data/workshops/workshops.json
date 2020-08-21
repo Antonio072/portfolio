@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "title" : "Docker for robotics",
+            "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
+            "date" : "03/03/2020"
+        },
+        {
+            "title" : "How to make a pitch",
+            "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
+            "date" : "21/02/2020"
+        },
+        {
+            "title" : "Introducción a Git",
+            "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
+            "date" : "02/02/2020"
+        },
+        {
+            "title" : "Desarrollo de aplicaciones con Vue",
+            "location" : "Tecnológico Nacional de México en Celaya, Celaya, Guanajuato México",
+            "date" : "03/03/2020"
+        },
+        {
+            "title" : "Como hacer un pitch efectivo",
+            "location" : "Tecnológico Nacional de México en Celaya, Celaya, Guanajuato, México",
+            "date" : "10/08/2019"
+        },
+        {
+            "title" : "Git y GitHub para desarrolladores",
+            "location" : "Congreso Internacional en Innovación y Tecnologías en Computación, Celaya, Guanajuato",
+            "date" : "10/08/2018"
+        },
+        {
+            "title" : "Introducción al desarrollo de videojuegos con Unity",
+            "location" : "Congreso Internacional en Innovación y Tecnologías en Computación, Celaya, Guanajuato",
+            "date" : "10/08/2017"
+        }
+    ]
+}
