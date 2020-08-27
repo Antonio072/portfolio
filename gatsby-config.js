@@ -8,6 +8,7 @@ module.exports = {
   /* Your site config here */
   plugins: [
   'gatsby-plugin-postcss',
+  // 'gatsby-plugin-fontawesome-css',
   'gatsby-transformer-json',
   { 
     resolve: 'gatsby-source-filesystem',

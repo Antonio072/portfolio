@@ -3,37 +3,50 @@
         {
             "title" : "Docker for robotics",
             "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
-            "date" : "03/03/2020"
+            "date" : "03/03/2020",
+            "imageURL" : "url(../workshops/Docker/docker.jpeg)"
         },
         {
             "title" : "How to make a pitch",
             "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
-            "date" : "21/02/2020"
+            "date" : "21/02/2020",
+            "imageURL" : "url(../workshops/cuandovayaa.png)"
         },
         {
             "title" : "Introducción a Git",
             "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
-            "date" : "02/02/2020"
+            "date" : "02/02/2020",
+            "imageURL" : "url(../workshops/IntroGitUAO/gituao.jpg)"
+        },
+        {
+            "title" : "Git crash course",
+            "location" : "Universidad Autónoma de Occidente, Cali, Colombia",
+            "date" : "02/02/2020",
+            "imageURL" : "url(../workshops/GitCrashCourse/gitcrashcourse2.jpeg)"
         },
         {
             "title" : "Desarrollo de aplicaciones con Vue",
             "location" : "Tecnológico Nacional de México en Celaya, Celaya, Guanajuato México",
-            "date" : "03/03/2020"
+            "date" : "03/03/2020",
+            "imageURL" : "url(../workshops/Vue/vue.png)"
         },
         {
             "title" : "Como hacer un pitch efectivo",
             "location" : "Tecnológico Nacional de México en Celaya, Celaya, Guanajuato, México",
-            "date" : "10/08/2019"
+            "date" : "10/08/2019",
+            "imageURL" : "url(../workshops/PitchLinnova/pitch.jpg)"
         },
         {
             "title" : "Git y GitHub para desarrolladores",
             "location" : "Congreso Internacional en Innovación y Tecnologías en Computación, Celaya, Guanajuato",
-            "date" : "10/08/2018"
+            "date" : "10/08/2018",
+            "imageURL" : "url(../workshops/Git-GitHub/Git-GitHub.jpg)"
         },
         {
             "title" : "Introducción al desarrollo de videojuegos con Unity",
             "location" : "Congreso Internacional en Innovación y Tecnologías en Computación, Celaya, Guanajuato",
-            "date" : "10/08/2017"
+            "date" : "10/08/2017",
+            "imageURL" : "url(../workshops/Unity/unity.jpg)"
         }
     ]
 }

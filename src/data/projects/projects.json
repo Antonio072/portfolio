@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "title": "Cuando Vaya A",
+            "place" : "Hackademy",
+            "description": "Como parte de un bootcamp realicé la organización del todo el equipo de desarrollo,además de los diseños de interfaces para la parte web y su desarrollo usando React tanto para la parte del usuario como la parte administrativa.",
+            "imageURL" : "url(../projects/cuandovayaa.png)"
+        },
+        {
+            "title": "Sistema de consultas ITC",
+            "place" : "Tecnológico Nacional de México en Celaya",
+            "description": "Desarrollé una aplicación siguiendo los pasos de ingeniería de software que sería utilizada para la acreditación internacional de mi carrera y posterior uso de todos los alumnos.",
+            "imageURL" : "url(../projects/consultasitc.jpeg)"
+        },
+        {
+            "title": "Autonomous Cars with Duckietown,",
+            "place" : "Universidad Autónoma de Occidente",
+            "description": "Durante todo un semestre desarrollé y entrené modelos de IA para la conducción autónoma en vehiculos a escala usando el proyecto del MIT llamado Duckietown.",
+            "imageURL" : "url(../projects/duckietown.jpg)"
+        },
+        {
+            "title": "Load Balancer using Kubernetes + Apache JMeter",
+            "place" : "Universidad Autónoma de Occidente",
+            "description": "Como parte de un bootcamp realicé la organización del todo el equipo de desarrollo,además de los diseños de interfaces para la parte web y su desarrollo usando React tanto para la parte del usuario como la parte administrativa.",
+            "imageURL" : "url(../projects/kubernetes.png)"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import Repo from './repo'
-
+import repos from '../data/repos'
 export default () => {
 
     const [repos, setRepos] = useState([])
@@ -26,8 +26,8 @@ export default () => {
         //     setRepos(myRepos)
         // }
         // fetchData();
+        console.log(data)
     }, [])
-
     return (<div className="max-w-4xl mx-auto ">
         <div className="header text-center mx-auto my-12">
             <h2 className="text-3xl font-bold">Some of my projects</h2>

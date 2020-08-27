@@ -1,12 +1,18 @@
 import React from "react"
 import Header from "../components/header"
 import Repos from '../components/repos'
-import Codigofacilito from '../components/codigofacilito'
 import Workshops from '../components/workshops'
-
-export default () => <div>
+import Skills from '../components/skills'
+import Education from '../components/education'
+import Projects from '../components/projects'
+      
+    
+export default () => <div >
     <Header />
-    <Repos />
+    <Education/>
+    <Skills/>
+    <Projects/>
     {/* <Codigofacilito/> */}
     <Workshops/>
+    <Repos />
 </div>
