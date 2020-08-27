@@ -19,8 +19,8 @@ export default () => {
 
     return <Fragment>
         <div class="flex flex-wrap justify-center">
-            <h2 className="text-3xl font-bold  w-full text-center">Proyectos</h2>
-
+            <h2 className="text-3xl font-bold  w-full text-center">Proyectos </h2>
+            
             <div class="flex content-center  xs:w-1/1 md:w-1/2 flex-wrap mx-4">
                 {data.projectsJson.projects.map(project => (
                     <div class="max-w-sm min-w-full lg:max-w-full lg:flex my-4">

@@ -12,6 +12,7 @@ export default () => (
                 </div>
                 <img className="flex" src={illustration} alt="Profile"></img>
             </div>
+            
         </div>
     </header>
 )

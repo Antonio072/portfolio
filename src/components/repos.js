@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from "react"
 import Repo from './repo'
-import repos from '../data/repos'
+import repositories from '../data/repos'
 export default () => {
 
     const [repos, setRepos] = useState([])
     const [reposCount, setReposCount] = useState([])
 
     useEffect(() => {
-
-        const data = sessionStorage.getItem("repos")
+        
+        const data = repositories
         let myRepos
         if (data) {
             myRepos = JSON.parse(data)

@@ -1,4 +1,4 @@
-const repos = [
+const repositories = [
   {
     "id": 242895450,
     "node_id": "MDEwOlJlcG9zaXRvcnkyNDI4OTU0NTA=",
@@ -1131,6 +1131,4 @@ const repos = [
   
 ]
 
-sessionStorage.setItem("repos",JSON.stringify(repos))
-
-export default repos
+export default repositories
