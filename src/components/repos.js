@@ -8,7 +8,7 @@ export default () => {
 
     useEffect(() => {
         
-        const data = repositories
+        const data = JSON.stringify(repositories)
         let myRepos
         if (data) {
             myRepos = JSON.parse(data)
